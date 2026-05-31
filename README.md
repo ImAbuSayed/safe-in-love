@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/safe-in-love/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Safe In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/safe-in-love/) |
+| **Get License** | [Official Music Licensing for Safe In Love](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/safe-in-love/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `e8296d54d539f97516e5437c55cbfd98212f4a986cfd2ad41bf081f373cbcfeb` |
 | **Timestamp** | May 31, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
