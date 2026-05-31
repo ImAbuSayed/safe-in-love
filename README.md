@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Come a little closer, let the shadows fall
+> I’ve been waiting all night just to hear you call
+> Got this fire burning, got this steady beat
+> Wrapped up in your gravity, wild and sweet
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
